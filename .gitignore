@@ -1,0 +1,14 @@
+# Dataset ảnh
+*.jpg
+*.jpeg
+*.png
+
+# File mô hình AI
+*.keras
+*.h5
+*.hdf5
+
+# File tạm
+temp_*.jpg
+__pycache__/
+.ipynb_checkpoints/
