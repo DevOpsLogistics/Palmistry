@@ -1,4 +1,4 @@
-# Palmistry CNN - AI Fortune Teller 🔮
+# Palmistry CNN - AI Fortune Teller 
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## 📌 Introduction
+##  Introduction
 Welcome to the **Palmistry CNN** project! This repository contains an advanced Convolutional Neural Network (CNN) multi-output model built to analyze palm lines and predict 8 aspects of a person's life:
 - **General Fortune**
 - **Love & Marriage**
@@ -23,19 +23,19 @@ Welcome to the **Palmistry CNN** project! This repository contains an advanced C
 - **Past Life**
 - **Next Life**
 
-## 🚀 Features
+##  Features
 - **Multi-Output CNN Architecture**: Predicts multiple life aspects simultaneously using a shared feature extractor.
 - **Data Augmentation**: Robust training with random flips, rotations, and zooms.
 - **Interactive UI**: Built-in Jupyter widget (or web interface) for seamless image upload and real-time prediction.
 - **Detailed Life Analysis**: Generates comprehensive Vietnamese readings based on palm traits.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 Based on the project's ecosystem architecture:
 - **AI & Computer Vision**: TensorFlow/Keras, OpenCV, Python 3.11
 - **Backend API**: FastAPI 0.111
 - **Web Frontend**: Next.js 15.0, React 19.0, TypeScript 5.0
 
-## 📦 Installation & Setup
+##  Installation & Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/DevOpsLogistics/Palmistry.git
@@ -47,11 +47,11 @@ Based on the project's ecosystem architecture:
    ```
 3. Open `Palmistry.ipynb` in VS Code or Jupyter Notebook.
 
-## 🔮 Usage
+##  Usage
 1. Run all cells in `Palmistry.ipynb`.
 2. Scroll to the bottom and click the **"Tải ảnh lên"** (Upload Image) button.
 3. Select a clear image of your palm (`.jpg`, `.png`).
 4. Read your detailed fortune and view the destiny radar chart!
 
-## ⚠️ Disclaimer
+##  Disclaimer
 This project is for educational and entertainment purposes. AI fortune telling should not replace professional medical, financial, or psychological advice.
